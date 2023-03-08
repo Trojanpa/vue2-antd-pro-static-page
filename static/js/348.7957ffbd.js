@@ -1,1 +1,0 @@
-"use strict";(self["webpackChunkvue2_antd"]=self["webpackChunkvue2_antd"]||[]).push([[348],{1214:function(n,u,e){e.r(u),e.d(u,{default:function(){return c}});var t=function(){var n=this,u=n._self._c;return u("div",{staticClass:"login"},[n._v("login")])},l=[],i={name:"LoginView"},s=i,a=e(8412),r=(0,a.Z)(s,t,l,!1,null,null,null),c=r.exports}}]);

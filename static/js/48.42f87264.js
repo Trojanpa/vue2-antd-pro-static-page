@@ -1,1 +1,0 @@
-"use strict";(self["webpackChunkvue2_antd"]=self["webpackChunkvue2_antd"]||[]).push([[48],{48:function(e,t,n){n.r(t),n.d(t,{default:function(){return c}});var u=function(){var e=this,t=e._self._c;return t("div",{staticClass:"register"},[e._v("register")])},r=[],s={name:"RegisterView"},i=s,l=n(8412),a=(0,l.Z)(i,u,r,!1,null,null,null),c=a.exports}}]);
