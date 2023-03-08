@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkvue2_antd"]=self["webpackChunkvue2_antd"]||[]).push([[358],{9358:function(e,n,u){u.r(n),u.d(n,{default:function(){return c}});var t=function(){var e=this,n=e._self._c;return n("div",[n("div",{staticClass:"desc"},[e._v("Ant Design Vue Pro")]),n("router-view")],1)},s=[],r={},l=r,i=u(8412),a=(0,i.Z)(l,t,s,!1,null,null,null),c=a.exports}}]);
