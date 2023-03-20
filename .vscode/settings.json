@@ -1,0 +1,26 @@
+{
+  "svn.ignoreMissingSvnWarning": true,
+  "window.zoomLevel": 0.5,
+  "workbench.editor.enablePreview": true,
+  "workbench.sideBar.location": "left",
+  "workbench.iconTheme": "vscode-icons",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.detectIndentation": false,
+  "editor.fontFamily": "Consolas, 'Courier New', monospace,'微软雅黑'",
+  "editor.fontSize": 15,
+  "editor.tabSize": 2,
+  "editor.minimap.enabled": true,
+  "editor.lineHeight": 24,
+  "editor.lineNumbers": "on",
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.stylelint": true,
+    "source.fixAll.eslint": true
+  },
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": true,
+    "strings": true
+  },
+  "editor.rulers": [120],
+}
